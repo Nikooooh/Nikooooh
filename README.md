@@ -17,11 +17,9 @@
   <table>
     <tr>
       <td align="center" valign="top" width="33%">
-        <div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; max-width: 300px;">
         <a href="https://github.com/Nikooooh/efood">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikooooh&repo=efood&theme=dracula" alt="E-FOOD">
         </a>
-          </div>
       </td>
       <td align="center" valign="top" width="33%">
         <a href="https://github.com/Nikooooh/cookshow2.0">
