@@ -20,19 +20,16 @@
         <a href="https://github.com/Nikooooh/efood">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikooooh&repo=efood&theme=dracula" alt="E-FOOD">
         </a>
-       
       </td>
       <td align="center" valign="top" width="33%">
         <a href="https://github.com/Nikooooh/cookshow2.0">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikooooh&repo=cookshow2.0&theme=dracula" alt="CookShow">
         </a>
-       
       </td>
       <td align="center" valign="top" width="33%">
         <a href="https://github.com/Nikooooh/pillcheck">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikooooh&repo=pillcheck&theme=dracula" alt="Pilulas.com.br">
         </a>
-      
       </td>
     </tr>
   </table>
