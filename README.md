@@ -11,16 +11,37 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikooooh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 ## 🛠️ Projetos
-  
-### Projeto 1: Nome do Projeto
-Descrição breve do projeto. (https://github.com/Nikooooh/efood)
 
-### Projeto 2: Nome do Projeto
-Descrição breve do projeto. [Link para o repositório](https://github.com/seuusuario/projeto2)
-
-### Projeto 3: Nome do Projeto
-Descrição breve do projeto. [Link para o repositório](https://github.com/seuusuario/projeto3)
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top" width="33%">
+        <h3>Projeto 1: Nome do Projeto</h3>
+        <p>Descrição breve do projeto.</p>
+        <a href="(https://github.com/Nikooooh/efood)">
+          <img src="https://via.placeholder.com/150" alt="Imagem do Projeto 1" style="width: 100%; height: auto;"/>
+        </a>
+        <p><a href="https://github.com/seuusuario/projeto1">Link para o repositório</a></p>
+      </td>
+      <td align="center" valign="top" width="33%">
+        <h3>Projeto 2: Nome do Projeto</h3>
+        <p>Descrição breve do projeto.</p>
+        <a href="https://github.com/seuusuario/projeto2">
+          <img src="https://via.placeholder.com/150" alt="Imagem do Projeto 2" style="width: 100%; height: auto;"/>
+        </a>
+        <p><a href="https://github.com/seuusuario/projeto2">Link para o repositório</a></p>
+      </td>
+      <td align="center" valign="top" width="33%">
+        <h3>Projeto 3: Nome do Projeto</h3>
+        <p>Descrição breve do projeto.</p>
+        <a href="https://github.com/seuusuario/projeto3">
+          <img src="https://via.placeholder.com/150" alt="Imagem do Projeto 3" style="width: 100%; height: auto;"/>
+        </a>
+        <p><a href="https://github.com/seuusuario/projeto3">Link para o repositório</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
