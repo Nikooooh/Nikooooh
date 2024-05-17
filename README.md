@@ -16,28 +16,19 @@
   <table>
     <tr>
       <td align="center" valign="top" width="33%">
-        <h3>Projeto 1: Nome do Projeto</h3>
-        <p>Descrição breve do projeto.</p>
-        <a href="(https://github.com/Nikooooh/efood)">
-          <img src="https://via.placeholder.com/150" alt="Imagem do Projeto 1" style="width: 100%; height: auto;"/>
+        <a href="https://github.com/seuusuario/projeto1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=seuusuario&repo=projeto1&theme=dracula" alt="Projeto 1">
         </a>
-        <p><a href="https://github.com/seuusuario/projeto1">Link para o repositório</a></p>
       </td>
       <td align="center" valign="top" width="33%">
-        <h3>Projeto 2: Nome do Projeto</h3>
-        <p>Descrição breve do projeto.</p>
         <a href="https://github.com/seuusuario/projeto2">
-          <img src="https://via.placeholder.com/150" alt="Imagem do Projeto 2" style="width: 100%; height: auto;"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=seuusuario&repo=projeto2&theme=dracula" alt="Projeto 2">
         </a>
-        <p><a href="https://github.com/seuusuario/projeto2">Link para o repositório</a></p>
       </td>
       <td align="center" valign="top" width="33%">
-        <h3>Projeto 3: Nome do Projeto</h3>
-        <p>Descrição breve do projeto.</p>
         <a href="https://github.com/seuusuario/projeto3">
-          <img src="https://via.placeholder.com/150" alt="Imagem do Projeto 3" style="width: 100%; height: auto;"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=seuusuario&repo=projeto3&theme=dracula" alt="Projeto 3">
         </a>
-        <p><a href="https://github.com/seuusuario/projeto3">Link para o repositório</a></p>
       </td>
     </tr>
   </table>
