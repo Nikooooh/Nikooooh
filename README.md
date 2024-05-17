@@ -16,17 +16,17 @@
   <table>
     <tr>
       <td align="center" valign="top" width="33%">
-        <a href="https://github.com/seuusuario/projeto1">
+        <a href="https://github.com/Nikooooh/efood">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=seuusuario&repo=projeto1&theme=dracula" alt="Projeto 1">
         </a>
       </td>
       <td align="center" valign="top" width="33%">
-        <a href="https://github.com/seuusuario/projeto2">
+        <a href="https://github.com/Nikooooh/cookshow2.0">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=seuusuario&repo=projeto2&theme=dracula" alt="Projeto 2">
         </a>
       </td>
       <td align="center" valign="top" width="33%">
-        <a href="https://github.com/seuusuario/projeto3">
+        <a href="https://github.com/Nikooooh/pillcheck">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=seuusuario&repo=projeto3&theme=dracula" alt="Projeto 3">
         </a>
       </td>
