@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-   Olá 👋
+   Bem-vindo(a) ao meu perfil no GitHub! 👋
   </h1>
 </div>
 
