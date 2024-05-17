@@ -18,7 +18,7 @@
     <tr>
       <td align="center" valign="top" width="33%">
         <a href="https://github.com/Nikooooh/efood">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=seuusuario&repo=projeto1&theme=dracula" alt="Projeto 1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?Nikooooh=Nikooooho&repo=projeto1&theme=dracula" alt="Projeto 1">
         </a>
       </td>
       <td align="center" valign="top" width="33%">
