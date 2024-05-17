@@ -10,6 +10,16 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikooooh&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikooooh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+## 🛠️ Projetos
+  
+### Projeto 1: Nome do Projeto
+Descrição breve do projeto. (https://github.com/Nikooooh/efood)
+
+### Projeto 2: Nome do Projeto
+Descrição breve do projeto. [Link para o repositório](https://github.com/seuusuario/projeto2)
+
+### Projeto 3: Nome do Projeto
+Descrição breve do projeto. [Link para o repositório](https://github.com/seuusuario/projeto3)
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
