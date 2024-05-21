@@ -27,8 +27,8 @@
         </a>
       </td>
       <td align="center" valign="top" width="33%">
-        <a href="https://github.com/Nikooooh/pillcheck">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikooooh&repo=pillcheck&theme=dracula" alt="Pilulas">
+        <a href="https://github.com/Nikooooh/twitter_clone">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikooooh&repo=twitter_clone&theme=dracula" alt="twitter">
         </a>
       </td>
     </tr>
