@@ -17,18 +17,18 @@
   <table>
     <tr>
       <td align="center" valign="top" width="33%">
-        <a href="https://github.com/Nikooooh/efood">
+        <a href="efood-two-wine.vercel.app">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikooooh&repo=efood&theme=dracula" alt="E-FOOD">
         </a>
       </td>
       <td align="center" valign="top" width="33%">
-        <a href="https://github.com/Nikooooh/cookshow2.0">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikooooh&repo=cookshow2.0&theme=dracula" alt="CookShow">
+        <a href="https://aleciotrevisan.com.br/">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikooooh&repo=aleciotrevisan&theme=dracula" alt="Advotech">
         </a>
       </td>
       <td align="center" valign="top" width="33%">
-        <a href="https://github.com/Nikooooh/twitter_clone">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikooooh&repo=twitter_clone&theme=dracula" alt="twitter">
+        <a href="https://pilulas.com.br/">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikooooh&repo=pillcheck&theme=dracula" alt="pillcheck">
         </a>
       </td>
     </tr>
