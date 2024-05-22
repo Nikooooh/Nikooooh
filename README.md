@@ -17,7 +17,7 @@
   <table>
     <tr>
       <td align="center" valign="top" width="33%">
-        <a href="efood-two-wine.vercel.app">
+        <a href="https://efood-two-wine.vercel.app">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikooooh&repo=efood&theme=dracula" alt="E-FOOD">
         </a>
       </td>
